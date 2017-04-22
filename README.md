@@ -1,4 +1,10 @@
-# GraphQL.jl 
+# GraphQL.jl  
+### Logo proposals  
++ <img src="https://github.com/codeneomatrix/GraphQL.jl/blob/master/graphqljl.jpg" height="60"/>
++ <img src="https://github.com/codeneomatrix/GraphQL.jl/blob/master/graphqljl2.jpg" height="60"/>
++ <img src="https://github.com/codeneomatrix/GraphQL.jl/blob/master/graphqljl3.jpg" height="60"/>
+
+
 This repository is an implementation of a GraphQL server, a query language for API created by Facebook.
 
 See more complete documentation at http://graphql.org/
